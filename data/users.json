@@ -1,0 +1,21 @@
+{
+    "63c56d466d639": {
+        "id": "63c56d466d639",
+        "username": "user1",
+        "password": "$2y$10$pIKgkAwtE4194x3xXA\/pyesXP6v42WSstSXjnB7Lv8CeiXAfC2Vai",
+        "email": "user1@gmail.hu",
+        "roles": [
+            "user"
+        ]
+    },
+    "63c574f1b49f9": {
+        "id": "63c574f1b49f9",
+        "username": "admin",
+        "password": "$2y$10$xvptEFwy1\/KsA7LDFTnEEuh7kumRkjhVmeGGtpNFddgrXlYVcc6X6",
+        "email": "admin@admin.com",
+        "roles": [
+            "user",
+            "admin"
+        ]
+    }
+}
